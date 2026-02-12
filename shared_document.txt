@@ -6,6 +6,10 @@ Update: Created initial file and added my details
 
 Name: Lavanya
 Roll No: (her roll number)
-Date & Time: 12-02-2026 (time she updated)
+Date & Time: 12-02-2026 
 Update: Updated shared_document.txt and added my details
 --------------------------------
+Name: Deepthi
+Roll No: 238W1A1255
+Date & Time: 12-02-2026 18:00
+Update: Deepthi updated this document 
